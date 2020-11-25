@@ -13,4 +13,5 @@ tentativas e erros realizados ao longo do desenvolvimento do projeto;
 descrição do que foi feito em cada célula e do que pôde ser observado a partir dos valores calculados e gráficos plotados;
 - "Projeto 2 - Sem descrição.ipynb": Esse arquivo jupyter corresponde a uma versão menos detalhada do "Projeto 2 - CDADOS.ipynb", com redução de 
 comentários, para que o leitor, caso se interesse, possa baixá-lo e utilizá-lo para suas próprias análises e manipulações;
+- "Walmart_Store_sales.xlsx" - Esse arquivo corresponde à base de dados (dataset) cujos dados foram utilizados para a construção das análises e dos modelos.
 
